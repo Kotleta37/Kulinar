@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #facdf8;
+  margin: 20px;
+}
+h1 {
+  color: #b22222;
+  text-align: center;
+}
+h2 {
+  color: #6641c3;
+  text-align: center;
+}
+ul, ol {
+  font-size: x-large;
+  line-height: 1.8; /* збільшений інтервал */
+  margin-left: 20px;
+}
+p {
+  font-size: 18px; /* збільшений розмір тексту абзаців */
+}
+
+img, video, audio {
+  margin-top: 10px;
+  display: block;
+  margin: 0 auto;
+}
